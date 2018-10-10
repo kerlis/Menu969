@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="order">que desea ordenar</string>
+    <string name="entry">esntrada</string>
+    <string name="main">plato  principal</string>
+    <string name="ordenar">ordenar</string>
+</resources>

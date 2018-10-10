@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+
+    <string name="order">¿what do you want today? </string>
+    <string name="entry">starter </string>
+    <string name="main">main </string>
+
+    <string name="ordenar">order </string>
+
+</resources>
