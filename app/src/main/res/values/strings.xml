@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Menu</string>
+    <string name="app_name">Aplicacion android kotlin</string>
 
 
     <string name="order">¿what do you want today? </string>
@@ -7,5 +7,10 @@
     <string name="main">main </string>
 
     <string name="ordenar">order </string>
+
+
+
+    <string name="cursos">cursos: \n -android \n -angular \n -kotlin \n -java </string>
+
 
 </resources>
